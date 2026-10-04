@@ -4,7 +4,7 @@ while True:
     print("╔══════════════════════════════════════════════════════╗")
     print("║              ATTENDANCE MANAGEMENT SYSTEM            ║")
     print("╠══════════════════════════════════════════════════════╣")
-    print("║                                                      ║")
+    print("║             !! ENTER CHOICE : 1 to 4!!               ║")
     print("║   [1] Add Student                                    ║")
     print("║   [2] Mark Attendance                                ║")
     print("║   [3] View Attendance                                ║")
